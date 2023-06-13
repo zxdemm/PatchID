@@ -1,0 +1,14 @@
+2023-05-29 19:19:35.985 DEBUG [--IsMonitorMode, true, --LogFile, /home/zxdemm/zx/jaid/example1/af_test/jaid_output/pre4exp_test_results.log, --LogLevel, DEBUG, --FailureHandling, CONTINUE, --TimeoutPerTest, 100000, --TestListFile, /home/zxdemm/zx/jaid/example1/af_test/jaid_output/test_cases_files.txt]
+2023-05-29 19:19:35.986 DEBUG TesterConfig{testsToRunInStr='test10@myPackage.JUnitAlphabet:', logFilePath=/home/zxdemm/zx/jaid/example1/af_test/jaid_output/pre4exp_test_results.log, shouldQuitUponMaxFailingTests=false, shouldCommunicateViaStdout=false, maxFailingTests=0, logLevel=DEBUG, failureHandling=CONTINUE, timeoutPerTest=100000, activeFixIndex=-1, isMonitorMode=true, batchSize=0}
+2023-05-29 19:19:35.987  INFO AllTestStart:
+2023-05-29 19:19:35.988 DEBUG Number of tests from command line argument: 1
+2023-05-29 19:19:36.155 DEBUG Number of test requests identified: 1
+2023-05-29 19:19:36.180 DEBUG <<!>>TestStart;FixIndex=-1;TestRequest=myPackage.JUnitAlphabet.test10;
+2023-05-29 19:19:36.566 DEBUG DTestResult:
+                              	RunCount:1
+                              	IgnoreCount:0
+                              	RunTime:82
+                              	WasSuccessful:true
+                              	FailureCount:0
+2023-05-29 19:19:36.571 DEBUG <<!>>TestEnd;FixIndex=-1;TestRequest=myPackage.JUnitAlphabet.test10;WasSuccessful=true;RunTime=82;
+2023-05-29 19:19:36.571  INFO AllTestsEnd:

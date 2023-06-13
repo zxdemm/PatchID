@@ -1,0 +1,191 @@
+2023-05-29 19:19:24,104  [main ] INFO  - JAID started ...
+2023-05-29 19:19:26,764  [main ] DEBUG - home
+home=/usr/lib/jvm/java-8-openjdk-amd64
+2023-05-29 19:19:26,765  [main ] DEBUG - options
+options=-javaagent:/home/zxdemm/zx/jaid/lib/assertagent-all.jar  -ea -cp "/home/zxdemm/zx/jaid/out/production/jaid:/home/zxdemm/zx/jaid/lib/javassist.jar:/home/zxdemm/zx/jaid/example1/af_test/jaid_output/tmp_dest:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/lib/junit-4.11.jar:/home/zxdemm/zx/jaid/example1/af_test/lib/hamcrest-core-1.3.jar"
+2023-05-29 19:19:26,765  [main ] DEBUG - main
+main=hk.polyu.comp.jaid.tester.Tester --LogFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/pre4location_test_results.log" --LogLevel DEBUG --FailureHandling CONTINUE --TimeoutPerTest 125000 --TestListFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/test_cases_files.txt" 
+2023-05-29 19:19:26,765  [main ] DEBUG - suspend
+suspend=true
+2023-05-29 19:19:26,765  [main ] DEBUG - quote
+quote="
+2023-05-29 19:19:26,765  [main ] DEBUG - vmexec
+vmexec=java
+2023-05-29 19:19:27,518  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test
+2023-05-29 19:19:27,837  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test', runTime=43, wasSuccessful=false}
+2023-05-29 19:19:27,843  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test9
+2023-05-29 19:19:27,859  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test9', runTime=1, wasSuccessful=true}
+2023-05-29 19:19:27,862  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test8
+2023-05-29 19:19:27,869  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test8', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:27,875  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test7
+2023-05-29 19:19:27,880  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test7', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:27,883  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test6
+2023-05-29 19:19:27,891  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test6', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:27,895  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test5
+2023-05-29 19:19:27,904  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test5', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:27,912  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test4
+2023-05-29 19:19:27,920  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test4', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:27,923  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test3
+2023-05-29 19:19:27,936  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test3', runTime=7, wasSuccessful=false}
+2023-05-29 19:19:27,943  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test2
+2023-05-29 19:19:27,949  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test2', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:27,952  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test1
+2023-05-29 19:19:27,960  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test1', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:27,967  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test15
+2023-05-29 19:19:27,975  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test15', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:27,985  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test14
+2023-05-29 19:19:27,989  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test14', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:27,996  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test13
+2023-05-29 19:19:27,999  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test13', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:28,004  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test12
+2023-05-29 19:19:28,008  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test12', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:28,015  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test11
+2023-05-29 19:19:28,024  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test11', runTime=0, wasSuccessful=true}
+2023-05-29 19:19:28,026  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test10
+2023-05-29 19:19:28,039  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test10', runTime=10, wasSuccessful=false}
+2023-05-29 19:19:28,386  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:28,387  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:28,491  [main ] INFO  - TotalTest::16;validTestSize::3;passingTimes::0
+2023-05-29 19:19:28,495  [main ] INFO  - Valid locations.size::1
+2023-05-29 19:19:28,499  [main ] DEBUG - home
+home=/usr/lib/jvm/java-8-openjdk-amd64
+2023-05-29 19:19:28,499  [main ] DEBUG - options
+options=-javaagent:/home/zxdemm/zx/jaid/lib/assertagent-all.jar  -ea -cp "/home/zxdemm/zx/jaid/out/production/jaid:/home/zxdemm/zx/jaid/lib/javassist.jar:/home/zxdemm/zx/jaid/example1/af_test/jaid_output/tmp_dest:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/lib/junit-4.11.jar:/home/zxdemm/zx/jaid/example1/af_test/lib/hamcrest-core-1.3.jar"
+2023-05-29 19:19:28,499  [main ] DEBUG - main
+main=hk.polyu.comp.jaid.tester.Tester --IsMonitorMode true --LogFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/pre4exp_test_results.log" --LogLevel DEBUG --FailureHandling CONTINUE --TimeoutPerTest 100000 --TestListFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/test_cases_files.txt" 
+2023-05-29 19:19:28,499  [main ] DEBUG - suspend
+suspend=true
+2023-05-29 19:19:28,499  [main ] DEBUG - quote
+quote="
+2023-05-29 19:19:28,499  [main ] DEBUG - vmexec
+vmexec=java
+2023-05-29 19:19:29,140  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test10
+2023-05-29 19:19:29,577  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:29,594  [main ] DEBUG - Expression with side effect: this.isLowercase()
+2023-05-29 19:19:29,596  [main ] DEBUG - Expression with side effect: this.isUppercase()
+2023-05-29 19:19:29,601  [main ] DEBUG - Expression with side effect: this.isAlphabetic()
+2023-05-29 19:19:29,621  [main ] DEBUG - Expression with side effect: this.isDigit()
+2023-05-29 19:19:29,684  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test10', runTime=211, wasSuccessful=false}
+2023-05-29 19:19:30,026  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:30,027  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:30,129  [main ] DEBUG - home
+home=/usr/lib/jvm/java-8-openjdk-amd64
+2023-05-29 19:19:30,129  [main ] DEBUG - options
+options=-javaagent:/home/zxdemm/zx/jaid/lib/assertagent-all.jar  -ea -cp "/home/zxdemm/zx/jaid/out/production/jaid:/home/zxdemm/zx/jaid/lib/javassist.jar:/home/zxdemm/zx/jaid/example1/af_test/jaid_output/tmp_dest:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/lib/junit-4.11.jar:/home/zxdemm/zx/jaid/example1/af_test/lib/hamcrest-core-1.3.jar"
+2023-05-29 19:19:30,129  [main ] DEBUG - main
+main=hk.polyu.comp.jaid.tester.Tester --IsMonitorMode true --LogFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/pre4exp_test_results.log" --LogLevel DEBUG --FailureHandling CONTINUE --TimeoutPerTest 100000 --TestListFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/test_cases_files.txt" 
+2023-05-29 19:19:30,129  [main ] DEBUG - suspend
+suspend=true
+2023-05-29 19:19:30,129  [main ] DEBUG - quote
+quote="
+2023-05-29 19:19:30,129  [main ] DEBUG - vmexec
+vmexec=java
+2023-05-29 19:19:30,607  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test10
+2023-05-29 19:19:30,949  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:31,004  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test10', runTime=104, wasSuccessful=false}
+2023-05-29 19:19:31,348  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:31,348  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:31,451  [main ] INFO  - ============ AllNonSideEffectETM size::9
+2023-05-29 19:19:31,513  [main ] DEBUG - home
+home=/usr/lib/jvm/java-8-openjdk-amd64
+2023-05-29 19:19:31,513  [main ] DEBUG - options
+options=-javaagent:/home/zxdemm/zx/jaid/lib/assertagent-all.jar  -ea -cp "/home/zxdemm/zx/jaid/out/production/jaid:/home/zxdemm/zx/jaid/lib/javassist.jar:/home/zxdemm/zx/jaid/example1/af_test/jaid_output/tmp_dest:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/lib/junit-4.11.jar:/home/zxdemm/zx/jaid/example1/af_test/lib/hamcrest-core-1.3.jar"
+2023-05-29 19:19:31,513  [main ] DEBUG - main
+main=hk.polyu.comp.jaid.tester.Tester --LogFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/monitored_test_results.log" --LogLevel DEBUG --FailureHandling CONTINUE --TimeoutPerTest 900000 --TestListFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/test_cases_files.txt" 
+2023-05-29 19:19:31,513  [main ] DEBUG - suspend
+suspend=true
+2023-05-29 19:19:31,513  [main ] DEBUG - quote
+quote="
+2023-05-29 19:19:31,513  [main ] DEBUG - vmexec
+vmexec=java
+2023-05-29 19:19:31,930  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test10
+2023-05-29 19:19:32,416  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test10', runTime=35, wasSuccessful=false}
+2023-05-29 19:19:32,426  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test3
+2023-05-29 19:19:32,448  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test3', runTime=14, wasSuccessful=false}
+2023-05-29 19:19:32,455  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test
+2023-05-29 19:19:32,484  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test', runTime=23, wasSuccessful=false}
+2023-05-29 19:19:32,825  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:32,825  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:32,925  [main ] INFO  - Finish evaluate program states.   CostingTime: 0:0:9;    UsedMemory: 48MB
+2023-05-29 19:19:32,952  [main ] INFO  - sbflAlgorithm ::AutoFix
+2023-05-29 19:19:32,975  [main ] INFO  - Valid snapshots ::51
+2023-05-29 19:19:33,435  [main ] DEBUG - home
+home=/usr/lib/jvm/java-8-openjdk-amd64
+2023-05-29 19:19:33,435  [main ] DEBUG - options
+options=-javaagent:/home/zxdemm/zx/jaid/lib/assertagent-all.jar  -ea -cp "/home/zxdemm/zx/jaid/out/production/jaid:/home/zxdemm/zx/jaid/lib/javassist.jar:/home/zxdemm/zx/jaid/example1/af_test/jaid_output/tmp_dest:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/lib/junit-4.11.jar:/home/zxdemm/zx/jaid/example1/af_test/lib/hamcrest-core-1.3.jar"
+2023-05-29 19:19:33,435  [main ] DEBUG - main
+main=hk.polyu.comp.jaid.tester.Tester --LogFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/pre4location_test_results.log" --LogLevel DEBUG --FailureHandling CONTINUE --TimeoutPerTest 125000 --TestListFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/test_cases_files.txt" 
+2023-05-29 19:19:33,435  [main ] DEBUG - suspend
+suspend=true
+2023-05-29 19:19:33,435  [main ] DEBUG - quote
+quote="
+2023-05-29 19:19:33,435  [main ] DEBUG - vmexec
+vmexec=java
+2023-05-29 19:19:33,826  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test10
+2023-05-29 19:19:34,135  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test10', runTime=15, wasSuccessful=true}
+2023-05-29 19:19:34,142  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test3
+2023-05-29 19:19:34,152  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test3', runTime=5, wasSuccessful=true}
+2023-05-29 19:19:34,156  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test
+2023-05-29 19:19:34,169  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test', runTime=5, wasSuccessful=true}
+2023-05-29 19:19:34,503  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:34,504  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:34,602  [main ] INFO  - TotalTest::16;validTestSize::3;passingTimes::0
+2023-05-29 19:19:34,606  [main ] INFO  - Valid locations.size::0
+2023-05-29 19:19:34,607  [main ] DEBUG - home
+home=/usr/lib/jvm/java-8-openjdk-amd64
+2023-05-29 19:19:34,608  [main ] DEBUG - options
+options=-javaagent:/home/zxdemm/zx/jaid/lib/assertagent-all.jar  -ea -cp "/home/zxdemm/zx/jaid/out/production/jaid:/home/zxdemm/zx/jaid/lib/javassist.jar:/home/zxdemm/zx/jaid/example1/af_test/jaid_output/tmp_dest:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/lib/junit-4.11.jar:/home/zxdemm/zx/jaid/example1/af_test/lib/hamcrest-core-1.3.jar"
+2023-05-29 19:19:34,608  [main ] DEBUG - main
+main=hk.polyu.comp.jaid.tester.Tester --IsMonitorMode true --LogFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/pre4exp_test_results.log" --LogLevel DEBUG --FailureHandling CONTINUE --TimeoutPerTest 100000 --TestListFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/test_cases_files.txt" 
+2023-05-29 19:19:34,608  [main ] DEBUG - suspend
+suspend=true
+2023-05-29 19:19:34,608  [main ] DEBUG - quote
+quote="
+2023-05-29 19:19:34,608  [main ] DEBUG - vmexec
+vmexec=java
+2023-05-29 19:19:35,000  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test10
+2023-05-29 19:19:35,330  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:35,334  [main ] DEBUG - Expression with side effect: this.getVowel_set()
+2023-05-29 19:19:35,359  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test10', runTime=83, wasSuccessful=true}
+2023-05-29 19:19:35,704  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:35,704  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:35,805  [main ] DEBUG - home
+home=/usr/lib/jvm/java-8-openjdk-amd64
+2023-05-29 19:19:35,805  [main ] DEBUG - options
+options=-javaagent:/home/zxdemm/zx/jaid/lib/assertagent-all.jar  -ea -cp "/home/zxdemm/zx/jaid/out/production/jaid:/home/zxdemm/zx/jaid/lib/javassist.jar:/home/zxdemm/zx/jaid/example1/af_test/jaid_output/tmp_dest:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/lib/junit-4.11.jar:/home/zxdemm/zx/jaid/example1/af_test/lib/hamcrest-core-1.3.jar"
+2023-05-29 19:19:35,805  [main ] DEBUG - main
+main=hk.polyu.comp.jaid.tester.Tester --IsMonitorMode true --LogFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/pre4exp_test_results.log" --LogLevel DEBUG --FailureHandling CONTINUE --TimeoutPerTest 100000 --TestListFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/test_cases_files.txt" 
+2023-05-29 19:19:35,805  [main ] DEBUG - suspend
+suspend=true
+2023-05-29 19:19:35,805  [main ] DEBUG - quote
+quote="
+2023-05-29 19:19:35,805  [main ] DEBUG - vmexec
+vmexec=java
+2023-05-29 19:19:36,180  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test10
+2023-05-29 19:19:36,535  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:36,569  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test10', runTime=82, wasSuccessful=true}
+2023-05-29 19:19:36,905  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:36,905  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:37,006  [main ] INFO  - ============ AllNonSideEffectETM size::8
+2023-05-29 19:19:37,018  [main ] DEBUG - home
+home=/usr/lib/jvm/java-8-openjdk-amd64
+2023-05-29 19:19:37,018  [main ] DEBUG - options
+options=-javaagent:/home/zxdemm/zx/jaid/lib/assertagent-all.jar  -ea -cp "/home/zxdemm/zx/jaid/out/production/jaid:/home/zxdemm/zx/jaid/lib/javassist.jar:/home/zxdemm/zx/jaid/example1/af_test/jaid_output/tmp_dest:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/out:/home/zxdemm/zx/jaid/example1/af_test/lib/junit-4.11.jar:/home/zxdemm/zx/jaid/example1/af_test/lib/hamcrest-core-1.3.jar"
+2023-05-29 19:19:37,018  [main ] DEBUG - main
+main=hk.polyu.comp.jaid.tester.Tester --LogFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/monitored_test_results.log" --LogLevel DEBUG --FailureHandling CONTINUE --TimeoutPerTest 800000 --TestListFile "/home/zxdemm/zx/jaid/example1/af_test/jaid_output/test_cases_files.txt" 
+2023-05-29 19:19:37,018  [main ] DEBUG - suspend
+suspend=true
+2023-05-29 19:19:37,018  [main ] DEBUG - quote
+quote="
+2023-05-29 19:19:37,018  [main ] DEBUG - vmexec
+vmexec=java
+2023-05-29 19:19:37,396  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test10
+2023-05-29 19:19:37,706  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test10', runTime=32, wasSuccessful=true}
+2023-05-29 19:19:37,709  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test
+2023-05-29 19:19:37,745  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test', runTime=28, wasSuccessful=true}
+2023-05-29 19:19:37,747  [main ] DEBUG - Executing test: myPackage.JUnitAlphabet.test3
+2023-05-29 19:19:37,769  [main ] DEBUG - TestExecutionResult{testClass='myPackage.JUnitAlphabet', testMethod='test3', runTime=16, wasSuccessful=true}
+2023-05-29 19:19:38,109  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:38,109  [Debuggee output] DEBUG - Debugee output: 
+2023-05-29 19:19:38,208  [main ] INFO  - Finish evaluate program states.   CostingTime: 0:0:14;    UsedMemory: 41MB
+2023-05-29 19:19:38,325  [main ] INFO  - Finished.   CostingTime: 0:0:14;    UsedMemory: 41MB

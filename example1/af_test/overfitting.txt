@@ -1,0 +1,12 @@
+lineLocationToMonitor : return result64711720=(this.vowel);
+
+SnapshotExpression : this.vowel[boolean] Boolean{value=false}
+NP : 0   NF : 3
+测试用例中表达式对比 
+原测试集-------
+成功测试用例
+失败测试用例
+TestSign : myPackage.JUnitAlphabet.test10    bug程序: false     补丁程序: false
+TestSign : myPackage.JUnitAlphabet.test    bug程序: false     补丁程序: false
+TestSign : myPackage.JUnitAlphabet.test3    bug程序: false     补丁程序: false
+新的测试用例

@@ -1,0 +1,24 @@
+
+
+
+
+Alphabet.java:243: warning: The prover cannot establish an assertion (Postcondition: Alphabet.java:194: ) in method driver
+	return result;
+	^
+Alphabet.java:194: warning: Associated declaration: Alphabet.java:243: 
+     @      ensures \result[0] ==> (c == 'a' || c == 'A' || c == 'e' || c == 'E' || c == 'i' || c == 'I' || c == 'o' ||
+            ^
+
+Alphabet.java:180: warning: The prover cannot establish an assertion (Assignable: Alphabet.java:178: ) in method getVowel_set:  vowel_set
+	vowel_set=true;
+	         ^
+Alphabet.java:178: warning: Associated declaration: Alphabet.java:180: 
+   public /*@ pure @*/ boolean getVowel_set()
+              ^
+Alphabet.java:44: warning: The prover cannot establish an assertion (Postcondition: Alphabet.java:36: ) in method isVowel
+       return vowel;
+       ^
+Alphabet.java:36: warning: Associated declaration: Alphabet.java:44: 
+     @   ensures vowel_set && \result == vowel;
+         ^
+6 warnings

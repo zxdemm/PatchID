@@ -1,0 +1,21 @@
+2023-05-29 19:19:24,104  [main ] INFO  - JAID started ...
+2023-05-29 19:19:28,491  [main ] INFO  - TotalTest::16;validTestSize::3;passingTimes::0
+2023-05-29 19:19:28,495  [main ] INFO  - Valid locations.size::1
+2023-05-29 19:19:29,577  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:29,594  [main ] DEBUG - Expression with side effect: this.isLowercase()
+2023-05-29 19:19:29,596  [main ] DEBUG - Expression with side effect: this.isUppercase()
+2023-05-29 19:19:29,602  [main ] DEBUG - Expression with side effect: this.isAlphabetic()
+2023-05-29 19:19:29,621  [main ] DEBUG - Expression with side effect: this.isDigit()
+2023-05-29 19:19:30,949  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:31,451  [main ] INFO  - ============ AllNonSideEffectETM size::9
+2023-05-29 19:19:32,925  [main ] INFO  - Finish evaluate program states.   CostingTime: 0:0:9;    UsedMemory: 48MB
+2023-05-29 19:19:32,953  [main ] INFO  - sbflAlgorithm ::AutoFix
+2023-05-29 19:19:32,975  [main ] INFO  - Valid snapshots ::51
+2023-05-29 19:19:34,602  [main ] INFO  - TotalTest::16;validTestSize::3;passingTimes::0
+2023-05-29 19:19:34,606  [main ] INFO  - Valid locations.size::0
+2023-05-29 19:19:35,330  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:35,334  [main ] DEBUG - Expression with side effect: this.getVowel_set()
+2023-05-29 19:19:36,536  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:37,006  [main ] INFO  - ============ AllNonSideEffectETM size::8
+2023-05-29 19:19:38,208  [main ] INFO  - Finish evaluate program states.   CostingTime: 0:0:14;    UsedMemory: 41MB
+2023-05-29 19:19:38,325  [main ] INFO  - Finished.   CostingTime: 0:0:14;    UsedMemory: 41MB

@@ -1,0 +1,4 @@
+2023-05-29 19:19:32,953  [main ] INFO  - sbflAlgorithm ::AutoFix
+2023-05-29 19:19:32,955  [main ] DEBUG - SBFL-AutoFix
+2023-05-29 19:19:32,963  [main ] DEBUG - isVowel()@myPackage.Alphabet[56]{occurrenceInPassing=0, occurrenceInFailing=3} :: 1.1940298507462686
+2023-05-29 19:19:32,976  [main ] INFO  - Valid snapshots ::51

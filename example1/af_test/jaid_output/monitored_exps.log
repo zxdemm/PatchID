@@ -1,0 +1,76 @@
+2023-05-29 19:19:24,104  [main ] INFO  - JAID started ...
+2023-05-29 19:19:25,724  [main ] DEBUG - ============ Expressions To Monitor Within Method (total number: 13)
+2023-05-29 19:19:25,728  [main ] DEBUG - myPackage.Alphabet :: OriginalETM:this [Alphabet]
+2023-05-29 19:19:25,728  [main ] DEBUG - boolean :: OriginalETM:this.vowel [boolean]
+2023-05-29 19:19:25,728  [main ] DEBUG - boolean :: OriginalETM:result64711720 [boolean]
+2023-05-29 19:19:25,729  [main ] DEBUG - boolean :: ConstructedETM:this.isDigit() [boolean]
+2023-05-29 19:19:25,729  [main ] DEBUG - boolean :: ConstructedETM:this.isVowel() [boolean]
+2023-05-29 19:19:25,729  [main ] DEBUG - boolean :: ConstructedETM:this.isLowercase() [boolean]
+2023-05-29 19:19:25,729  [main ] DEBUG - boolean :: ConstructedETM:this.isUppercase() [boolean]
+2023-05-29 19:19:25,729  [main ] DEBUG - boolean :: ConstructedETM:this.getDigit_set() [boolean]
+2023-05-29 19:19:25,729  [main ] DEBUG - boolean :: ConstructedETM:this.getVowel_set() [boolean]
+2023-05-29 19:19:25,729  [main ] DEBUG - boolean :: ConstructedETM:this.isAlphabetic() [boolean]
+2023-05-29 19:19:25,729  [main ] DEBUG - boolean :: ConstructedETM:this.getLowercase_set() [boolean]
+2023-05-29 19:19:25,729  [main ] DEBUG - boolean :: ConstructedETM:this.getUppercase_set() [boolean]
+2023-05-29 19:19:25,729  [main ] DEBUG - boolean :: ConstructedETM:this.getAlphabetic_set() [boolean]
+2023-05-29 19:19:25,729  [main ] DEBUG - ============ Constant Integers (total number: 2)
+2023-05-29 19:19:25,730  [main ] DEBUG - int :: ConstructedETM:0 [int]
+2023-05-29 19:19:25,730  [main ] DEBUG - int :: ConstructedETM:1 [int]
+2023-05-29 19:19:28,488  [main ] INFO  - ============ accessedFieldSet size:0
+2023-05-29 19:19:28,491  [main ] INFO  - TotalTest::16;validTestSize::3;passingTimes::0
+2023-05-29 19:19:28,495  [main ] INFO  - Valid locations.size::1
+2023-05-29 19:19:29,578  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:29,594  [main ] DEBUG - Expression with side effect: this.isLowercase()
+2023-05-29 19:19:29,596  [main ] DEBUG - Expression with side effect: this.isUppercase()
+2023-05-29 19:19:29,602  [main ] DEBUG - Expression with side effect: this.isAlphabetic()
+2023-05-29 19:19:29,621  [main ] DEBUG - Expression with side effect: this.isDigit()
+2023-05-29 19:19:30,949  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:31,452  [main ] INFO  - ============ AllNonSideEffectETM size::9
+2023-05-29 19:19:31,453  [main ] DEBUG - ConstructedETM:this.isVowel() [boolean]
+2023-05-29 19:19:31,453  [main ] DEBUG - ConstructedETM:this.getLowercase_set() [boolean]
+2023-05-29 19:19:31,453  [main ] DEBUG - ConstructedETM:this.getDigit_set() [boolean]
+2023-05-29 19:19:31,453  [main ] DEBUG - OriginalETM:result64711720 [boolean]
+2023-05-29 19:19:31,453  [main ] DEBUG - OriginalETM:this [Alphabet]
+2023-05-29 19:19:31,453  [main ] DEBUG - ConstructedETM:this.getAlphabetic_set() [boolean]
+2023-05-29 19:19:31,453  [main ] DEBUG - OriginalETM:this.vowel [boolean]
+2023-05-29 19:19:31,453  [main ] DEBUG - ConstructedETM:this.getVowel_set() [boolean]
+2023-05-29 19:19:31,453  [main ] DEBUG - ConstructedETM:this.getUppercase_set() [boolean]
+2023-05-29 19:19:31,501  [main ] INFO  - stateSnapshotExpressionsWithinMethod size:92
+2023-05-29 19:19:32,925  [main ] INFO  - Finish evaluate program states.   CostingTime: 0:0:9;    UsedMemory: 48MB
+2023-05-29 19:19:32,953  [main ] INFO  - sbflAlgorithm ::AutoFix
+2023-05-29 19:19:32,975  [main ] INFO  - Valid snapshots ::51
+2023-05-29 19:19:33,125  [main ] DEBUG - ============ Expressions To Monitor Within Method (total number: 13)
+2023-05-29 19:19:33,130  [main ] DEBUG - myPackage.Alphabet :: OriginalETM:this [Alphabet]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: OriginalETM:this.vowel [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: OriginalETM:result64711720 [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: ConstructedETM:this.isDigit() [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: ConstructedETM:this.isVowel() [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: ConstructedETM:this.isLowercase() [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: ConstructedETM:this.isUppercase() [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: ConstructedETM:this.getDigit_set() [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: ConstructedETM:this.getVowel_set() [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: ConstructedETM:this.isAlphabetic() [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: ConstructedETM:this.getLowercase_set() [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: ConstructedETM:this.getUppercase_set() [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - boolean :: ConstructedETM:this.getAlphabetic_set() [boolean]
+2023-05-29 19:19:33,130  [main ] DEBUG - ============ Constant Integers (total number: 2)
+2023-05-29 19:19:33,130  [main ] DEBUG - int :: ConstructedETM:0 [int]
+2023-05-29 19:19:33,130  [main ] DEBUG - int :: ConstructedETM:1 [int]
+2023-05-29 19:19:34,602  [main ] INFO  - ============ accessedFieldSet size:0
+2023-05-29 19:19:34,602  [main ] INFO  - TotalTest::16;validTestSize::3;passingTimes::0
+2023-05-29 19:19:34,606  [main ] INFO  - Valid locations.size::0
+2023-05-29 19:19:35,330  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:35,334  [main ] DEBUG - Expression with side effect: this.getVowel_set()
+2023-05-29 19:19:36,536  [main ] DEBUG - Expression that invokes MTF: this.isVowel()
+2023-05-29 19:19:37,006  [main ] INFO  - ============ AllNonSideEffectETM size::8
+2023-05-29 19:19:37,007  [main ] DEBUG - ConstructedETM:this.isVowel() [boolean]
+2023-05-29 19:19:37,007  [main ] DEBUG - ConstructedETM:this.getLowercase_set() [boolean]
+2023-05-29 19:19:37,007  [main ] DEBUG - ConstructedETM:this.getDigit_set() [boolean]
+2023-05-29 19:19:37,007  [main ] DEBUG - OriginalETM:result64711720 [boolean]
+2023-05-29 19:19:37,007  [main ] DEBUG - OriginalETM:this [Alphabet]
+2023-05-29 19:19:37,007  [main ] DEBUG - ConstructedETM:this.getAlphabetic_set() [boolean]
+2023-05-29 19:19:37,007  [main ] DEBUG - OriginalETM:this.vowel [boolean]
+2023-05-29 19:19:37,007  [main ] DEBUG - ConstructedETM:this.getUppercase_set() [boolean]
+2023-05-29 19:19:37,017  [main ] INFO  - stateSnapshotExpressionsWithinMethod size:70
+2023-05-29 19:19:38,208  [main ] INFO  - Finish evaluate program states.   CostingTime: 0:0:14;    UsedMemory: 41MB
+2023-05-29 19:19:38,325  [main ] INFO  - Finished.   CostingTime: 0:0:14;    UsedMemory: 41MB

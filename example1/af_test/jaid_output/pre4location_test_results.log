@@ -1,0 +1,30 @@
+2023-05-29 19:19:33.646 DEBUG [--LogFile, /home/zxdemm/zx/jaid/example1/af_test/jaid_output/pre4location_test_results.log, --LogLevel, DEBUG, --FailureHandling, CONTINUE, --TimeoutPerTest, 125000, --TestListFile, /home/zxdemm/zx/jaid/example1/af_test/jaid_output/test_cases_files.txt]
+2023-05-29 19:19:33.647 DEBUG TesterConfig{testsToRunInStr='test10@myPackage.JUnitAlphabet:test3@myPackage.JUnitAlphabet:test@myPackage.JUnitAlphabet:', logFilePath=/home/zxdemm/zx/jaid/example1/af_test/jaid_output/pre4location_test_results.log, shouldQuitUponMaxFailingTests=false, shouldCommunicateViaStdout=false, maxFailingTests=0, logLevel=DEBUG, failureHandling=CONTINUE, timeoutPerTest=125000, activeFixIndex=-1, isMonitorMode=false, batchSize=0}
+2023-05-29 19:19:33.648  INFO AllTestStart:
+2023-05-29 19:19:33.649 DEBUG Number of tests from command line argument: 3
+2023-05-29 19:19:33.810 DEBUG Number of test requests identified: 3
+2023-05-29 19:19:33.827 DEBUG <<!>>TestStart;FixIndex=-1;TestRequest=myPackage.JUnitAlphabet.test10;
+2023-05-29 19:19:34.133 DEBUG DTestResult:
+                              	RunCount:1
+                              	IgnoreCount:0
+                              	RunTime:15
+                              	WasSuccessful:true
+                              	FailureCount:0
+2023-05-29 19:19:34.136 DEBUG <<!>>TestEnd;FixIndex=-1;TestRequest=myPackage.JUnitAlphabet.test10;WasSuccessful=true;RunTime=15;
+2023-05-29 19:19:34.143 DEBUG <<!>>TestStart;FixIndex=-1;TestRequest=myPackage.JUnitAlphabet.test3;
+2023-05-29 19:19:34.151 DEBUG DTestResult:
+                              	RunCount:1
+                              	IgnoreCount:0
+                              	RunTime:5
+                              	WasSuccessful:true
+                              	FailureCount:0
+2023-05-29 19:19:34.152 DEBUG <<!>>TestEnd;FixIndex=-1;TestRequest=myPackage.JUnitAlphabet.test3;WasSuccessful=true;RunTime=5;
+2023-05-29 19:19:34.156 DEBUG <<!>>TestStart;FixIndex=-1;TestRequest=myPackage.JUnitAlphabet.test;
+2023-05-29 19:19:34.168 DEBUG DTestResult:
+                              	RunCount:1
+                              	IgnoreCount:0
+                              	RunTime:5
+                              	WasSuccessful:true
+                              	FailureCount:0
+2023-05-29 19:19:34.169 DEBUG <<!>>TestEnd;FixIndex=-1;TestRequest=myPackage.JUnitAlphabet.test;WasSuccessful=true;RunTime=5;
+2023-05-29 19:19:34.169  INFO AllTestsEnd:

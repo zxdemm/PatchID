@@ -1,0 +1,21 @@
+JAID started ...
+TotalTest::16;validTestSize::3;passingTimes::0
+Valid locations.size::1
+Expression that invokes MTF: this.isVowel()
+Expression with side effect: this.isLowercase()
+Expression with side effect: this.isUppercase()
+Expression with side effect: this.isAlphabetic()
+Expression with side effect: this.isDigit()
+Expression that invokes MTF: this.isVowel()
+============ AllNonSideEffectETM size::9
+Finish evaluate program states.   CostingTime: 0:0:9;    UsedMemory: 48MB
+sbflAlgorithm ::AutoFix
+Valid snapshots ::51
+TotalTest::16;validTestSize::3;passingTimes::0
+Valid locations.size::0
+Expression that invokes MTF: this.isVowel()
+Expression with side effect: this.getVowel_set()
+Expression that invokes MTF: this.isVowel()
+============ AllNonSideEffectETM size::8
+Finish evaluate program states.   CostingTime: 0:0:14;    UsedMemory: 41MB
+Finished.   CostingTime: 0:0:14;    UsedMemory: 41MB
