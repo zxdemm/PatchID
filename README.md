@@ -3,9 +3,9 @@ This is the implementation of PatchID.
 
 ### Configuring PatchID project in IntelliJ IDEA
 
-1. Clone PatchID project from https://bitbucket.org/maxpei/fixja.git to a local directory $JAID_DIR$.
+1. Clone PatchID project from .
 
-2. Open PatchID project in your IntelliJ IDEA IDE. Go to \[File\]/\[Open\], then browse to $JAID_DIR$ and select `jaid.iml` and click on OK. Or import the provided module file `jaid.iml` in \[Modules\] of project structure after open the project.
+2. Open PatchID project in your IntelliJ IDEA IDE. Go to \[File\]/\[Open\], then browse to yourPath and select `jaid.iml` and click on OK. Or import the provided module file `jaid.iml` in \[Modules\] of project structure after open the project.
 
     ![import_modules](doc/img/import_modules.png)
 
